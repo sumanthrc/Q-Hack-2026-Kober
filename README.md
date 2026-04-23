@@ -2,6 +2,10 @@
 
 > Smart grocery recommendations + shared household shopping for Picnic
 
+## Demo
+
+<video src="Demo-QHack_Kober.mov" controls width="100%"></video>
+
 ## Projects
 
 ### [Recommendation Engine](./recommendation_model/README.md)
